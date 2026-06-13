@@ -1,12 +1,12 @@
 # Library React
 
-## Description
-
 Library React is a responsive online library application built with React. Users can browse books, search titles, apply filters, manage their cart, and navigate through a dynamic shopping experience.
+
 
 ## Live Demo
 
 https://library-react-gold.vercel.app
+
 
 ## Features
 
@@ -17,6 +17,7 @@ https://library-react-gold.vercel.app
 - Dynamic routing between pages
 - Responsive design
 
+
 ## Tech Stack
 
 - React
@@ -24,6 +25,7 @@ https://library-react-gold.vercel.app
 - CSS
 - React Router
 - Vercel
+
 
 ## What I Learned
 
